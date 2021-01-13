@@ -5,13 +5,17 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoftUniExercises", "SoftUniExercises\SoftUniExercises.csproj", "{DE72DB99-7870-4E93-867B-91B14C3BD2F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercise_Train_01", "Array_Exercise_Train_01\Array_Exercise_Train_01.csproj", "{4CC17E7A-5347-405B-8188-C4AD5D28F52A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercise_Train_01", "Array_Exercise_Train_01\Array_Exercise_Train_01.csproj", "{4CC17E7A-5347-405B-8188-C4AD5D28F52A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercise_CommonElements_02", "Array_Exercise_CommonElements_02\Array_Exercise_CommonElements_02.csproj", "{6B27FF3C-A890-4445-A422-1BB043935FE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercise_CommonElements_02", "Array_Exercise_CommonElements_02\Array_Exercise_CommonElements_02.csproj", "{6B27FF3C-A890-4445-A422-1BB043935FE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercises_ZigZag_03", "Array_Exercises_ZigZag_04\Array_Exercises_ZigZag_03.csproj", "{80769B5E-362D-4AF2-A20B-349365E819A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercises_ZigZag_03", "Array_Exercises_ZigZag_04\Array_Exercises_ZigZag_03.csproj", "{80769B5E-362D-4AF2-A20B-349365E819A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercises_ArrayRotation_04", "Array_Exercises_ArrayRotation_05\Array_Exercises_ArrayRotation_04.csproj", "{C92F772D-1CE6-44B7-8DD3-A60A3ACB629E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercises_ArrayRotation_04", "Array_Exercises_ArrayRotation_05\Array_Exercises_ArrayRotation_04.csproj", "{C92F772D-1CE6-44B7-8DD3-A60A3ACB629E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercises_EqualSums_06", "Array_Exercises_EqualSums_06\Array_Exercises_EqualSums_06.csproj", "{EE59BBD6-176E-4298-A840-76572EE38B00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercise_MaxSequenceEqual_07", "Array_Exercise_MaxSequenceEqual_07\Array_Exercise_MaxSequenceEqual_07.csproj", "{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{C92F772D-1CE6-44B7-8DD3-A60A3ACB629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C92F772D-1CE6-44B7-8DD3-A60A3ACB629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C92F772D-1CE6-44B7-8DD3-A60A3ACB629E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE59BBD6-176E-4298-A840-76572EE38B00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE59BBD6-176E-4298-A840-76572EE38B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE59BBD6-176E-4298-A840-76572EE38B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE59BBD6-176E-4298-A840-76572EE38B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
