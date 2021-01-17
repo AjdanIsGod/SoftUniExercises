@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercises_EqualSums_0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercise_MaxSequenceEqual_07", "Array_Exercise_MaxSequenceEqual_07\Array_Exercise_MaxSequenceEqual_07.csproj", "{6B2188A7-3BA8-4ED8-AAAD-A434D4C35569}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercise_MagicSum_08", "Array_Exercise_MagicSum_08\Array_Exercise_MagicSum_08.csproj", "{489C5A18-4C32-4B9B-884A-AD436436B998}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Exercise_MagicSum_08", "Array_Exercise_MagicSum_08\Array_Exercise_MagicSum_08.csproj", "{489C5A18-4C32-4B9B-884A-AD436436B998}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Exercises_Kamino_09", "Array_Exercises_Kamino_09\Array_Exercises_Kamino_09.csproj", "{3C815C2D-3110-4D8B-AA2A-DDE883DD00BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{489C5A18-4C32-4B9B-884A-AD436436B998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{489C5A18-4C32-4B9B-884A-AD436436B998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{489C5A18-4C32-4B9B-884A-AD436436B998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C815C2D-3110-4D8B-AA2A-DDE883DD00BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C815C2D-3110-4D8B-AA2A-DDE883DD00BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C815C2D-3110-4D8B-AA2A-DDE883DD00BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C815C2D-3110-4D8B-AA2A-DDE883DD00BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
