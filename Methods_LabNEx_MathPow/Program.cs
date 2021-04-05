@@ -9,6 +9,7 @@ namespace Methods_LabNEx_MathPow
             double num = double.Parse(Console.ReadLine());
             double pow = double.Parse(Console.ReadLine());
             double result = Solve(num, pow);
+            Console.WriteLine(result);
         }
 
         private static double Solve(double num,double pow)

@@ -31,13 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_Calculations
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_PrintTriangle", "Methods_LabNEx_PrintTriangle\Methods_LabNEx_PrintTriangle.csproj", "{EED0CD38-B885-478F-92E2-B5B0E6D66D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_Orders", "Methods_LabNEx_Orders\Methods_LabNEx_Orders.csproj", "{04E09C8F-BF31-45E2-8D40-B547673F87E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_Orders", "Methods_LabNEx_Orders\Methods_LabNEx_Orders.csproj", "{04E09C8F-BF31-45E2-8D40-B547673F87E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_CalcRect", "Methods_LabNEx_CalcRect\Methods_LabNEx_CalcRect.csproj", "{084B9938-47B6-4BC4-98BD-3EA15110A0D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_CalcRect", "Methods_LabNEx_CalcRect\Methods_LabNEx_CalcRect.csproj", "{084B9938-47B6-4BC4-98BD-3EA15110A0D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_RepeatString", "Methods_LabNEx_RepeatString\Methods_LabNEx_RepeatString.csproj", "{7A56BB4C-3638-43C4-AD0B-D402CE444ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_RepeatString", "Methods_LabNEx_RepeatString\Methods_LabNEx_RepeatString.csproj", "{7A56BB4C-3638-43C4-AD0B-D402CE444ED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_MathPow", "Methods_LabNEx_MathPow\Methods_LabNEx_MathPow.csproj", "{71854C17-14AB-4459-9B65-F293E3B1AC42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods_LabNEx_MathPow", "Methods_LabNEx_MathPow\Methods_LabNEx_MathPow.csproj", "{71854C17-14AB-4459-9B65-F293E3B1AC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_GreaterOfTwoValues", "Methods_LabNEx_GreaterOfTwoValues\Methods_LabNEx_GreaterOfTwoValues.csproj", "{0D0068ED-1A53-49B6-813C-ED8855906194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_LabNEx_EvenByOdd", "Methods_LabNEx_EvenByOdd\Methods_LabNEx_EvenByOdd.csproj", "{A3B0CBF3-6D30-49AA-BD57-9DAC7058A8FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{71854C17-14AB-4459-9B65-F293E3B1AC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71854C17-14AB-4459-9B65-F293E3B1AC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71854C17-14AB-4459-9B65-F293E3B1AC42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D0068ED-1A53-49B6-813C-ED8855906194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D0068ED-1A53-49B6-813C-ED8855906194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D0068ED-1A53-49B6-813C-ED8855906194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D0068ED-1A53-49B6-813C-ED8855906194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B0CBF3-6D30-49AA-BD57-9DAC7058A8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B0CBF3-6D30-49AA-BD57-9DAC7058A8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B0CBF3-6D30-49AA-BD57-9DAC7058A8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B0CBF3-6D30-49AA-BD57-9DAC7058A8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
